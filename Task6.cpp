@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-6
 #include <iostream>   // For input/output
 using namespace std;
@@ -28,4 +28,5 @@ using namespace std;
 	}
 	cout<<"Fixed loop done (no leaks)"<<endl;
 	return 0;
+
 }
