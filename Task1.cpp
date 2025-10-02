@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-1
 #include <iostream>   // For input/output
 using namespace std;
@@ -14,4 +14,5 @@ int main() {
     cout << "**q = " << **q << endl;   // **q means value at address stored in q → *p → x
 
     return 0;         // End program
+
 }
