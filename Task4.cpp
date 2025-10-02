@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-4
 #include <iostream>   // For input/output
 using namespace std;
@@ -24,4 +24,5 @@ int main() {
 	scores=nullptr;//set pointer to null for safety
 	return 0;
 }
+
 	
