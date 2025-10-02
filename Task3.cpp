@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-3
 #include <iostream>   // For input/output
 using namespace std;
@@ -14,4 +14,5 @@ int main() {
 	names[2]=replacement;
 	cout<<"After change,name[2] ->" <<names[2]<<endl;
 	return 0;
+
 }
