@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-5
 #include <iostream>   // For input/output
 using namespace std;
@@ -11,4 +11,5 @@ int main() {
 	p =nullptr; //important set pointer to null so its not dangling
 	cout<<"pointer safely set to nullptr After delete"<<endl;
 	return 0;
+
 }
