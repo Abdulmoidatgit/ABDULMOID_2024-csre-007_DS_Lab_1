@@ -1,5 +1,5 @@
-//maryam naeem
-//2024-csre-010
+//Abdul-Moid
+//2024-csre-007
 //Lab-1 task-2
 #include <iostream>   // For input/output
 using namespace std;
@@ -11,4 +11,5 @@ int main() {
 	*p=*p+5; //deference p changes a's value to 25
 	cout<<"a After:"<<a<<endl; //prints 25
 	return 0;
+
 }
